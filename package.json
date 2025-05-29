@@ -173,5 +173,9 @@
     "webpack-dev-server": "^4.15.1",
     "webpack-visualizer-plugin2": "^1.0.0",
     "zip-webpack-plugin": "^4.0.1"
+  },
+  "volta": {
+    "node": "18.20.8",
+    "yarn": "1.22.22"
   }
 }
